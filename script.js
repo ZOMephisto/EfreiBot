@@ -9,7 +9,7 @@ const userQueryTwo = "Where can i go during my internationnal exchange ?";
 const userQueryThree = "What are the different specializations ?";
 
 let userMessage = null;
-const API_KEY = "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"; 
+const API_KEY = "sk-proj-NqiqmzmsFqtricNNdag2T3BlbkFJjmaSmJI3hKfvGmEL3fNl"; 
 const inputInitHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className, reference) => {
